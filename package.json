@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon connectDb.js "
+    "start": "node connectDb.js",
+    "dev": "nodemon connectDb.js"
   },
   "keywords": [],
   "author": "",
